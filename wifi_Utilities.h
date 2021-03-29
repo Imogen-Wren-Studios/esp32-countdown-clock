@@ -13,10 +13,10 @@ const char* APpassword = "12345678";                  //Router Password - PASSWO
 #define USE_DEFAULT_IP false
 
 // Variables for Local network (Station)
-//const char* STssid = "EE-Hub-G3ge";
-//const char* STpassword = "stock-led-HALF";
-const char* STssid = "Skyrora_Works";
-const char* STpassword = "Barbos_1243%";
+//const char* STssid = "HOME_SSID";
+//const char* STpassword = "HOME_PASS";
+const char* STssid = "WORK_SSID";
+const char* STpassword = "WORK_PASS";
 
 
 #define USE_STATIC_IP true             // Only effects parameters when in station mode
