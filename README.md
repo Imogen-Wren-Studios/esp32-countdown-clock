@@ -3,4 +3,4 @@
  
 For Project Write Up See:
 
-<https://pangalactictech.com/rocket-launch-countdown-clock/>Rocket Launch Countdown Clock<
+[Rocket Launch Countdown Clock](https://pangalactictech.com/rocket-launch-countdown-clock/)
