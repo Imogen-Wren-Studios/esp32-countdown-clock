@@ -7,7 +7,7 @@
   control a clock
 
 
-  Declan Heard
+  Imogen Heard
   06/11/2020
 *********/
 
