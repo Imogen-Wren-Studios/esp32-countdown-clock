@@ -3,6 +3,13 @@
  
  ![image](https://github.com/PanGalacticTech/esp32-countdown-clock/assets/97303986/16bce278-39c9-4cf5-8c9c-aeeff0811cf2)
 
+## Wiring Layout
+## Per Digit
+![image](https://github.com/user-attachments/assets/50f7c208-536b-4424-987a-5c60253cc8eb)
+
+## Complete System (coming soon) 
+
+
 ## Web Server GUI
 
 ![image](https://github.com/PanGalacticTech/esp32-countdown-clock/assets/97303986/277eb520-c73f-465a-a0b0-40ef93e12b75)
