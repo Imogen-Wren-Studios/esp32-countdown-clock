@@ -8,7 +8,7 @@
 ![image](https://github.com/user-attachments/assets/50f7c208-536b-4424-987a-5c60253cc8eb)
 
 ## Complete System 
-_Diagram shows data flow from ESP32 through LED chain. Note: Different colours are just used to make them stand out, there is no significance to colours used._
+_Diagram shows data flow from ESP32 through LED chain. Note: Different colours are just used to make data flow stand out, there is no significance to colours used._
 ![image](https://github.com/user-attachments/assets/d97cf0c1-8698-415b-9af3-f5f1b5fb4f09)
 _Note: This is my best reccollection, and I do not possess the hardware any longer to check, if you find the wiring differs from this, please let me know and I will amend the diagram!_
 
